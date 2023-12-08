@@ -11,7 +11,7 @@ WASD movement and Arrows Firing bullets
 ## Getting Started
 
 Once you enter the game you will see something like this 
-
+```
 WASD = walk
 Arrows = fire bullets
 
@@ -24,6 +24,7 @@ C = Enemys that Chases player
 F = Enemys that Flee player
 B = Enemys that Flee bullets
 D = Enemys that Flee bullets and Chases player
+```
 ```
 XP: [0/3] Level: 1      Life: [3/3]
 Time: 0
